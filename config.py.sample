@@ -1,0 +1,6 @@
+peeringdb = {
+    "server":  'https://www.peeringdb.com/api',
+    "username": 'email',
+    "password": 'password'
+}
+asn = 123456
